@@ -1,4 +1,7 @@
 Python File Handling
+
+
+
 Input and Output in Python refer to the process of taking input from the user and displaying output to the user. The input function is used to take input from the user, and the print function is used to display output to the user.
 
 

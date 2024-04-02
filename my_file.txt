@@ -1,0 +1,6 @@
+Hello, this is line 1 in file creation.
+0123457891112
+This is python file handling assignment adding mix on nummbers.
+Appending line 4 with more text.
+6788990
+Adding another line with a mix of text and numbers.
